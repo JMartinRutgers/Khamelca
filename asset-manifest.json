@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/khamelca/static/css/main.673289b1.css",
+    "main.js": "/khamelca/static/js/main.caacda7d.js",
+    "static/media/Me2.mp4": "/khamelca/static/media/Me2.fac054e54d8ef27c6817.mp4",
+    "static/media/Land.png": "/khamelca/static/media/Land.74871049839fa61cb6ac.png",
+    "static/media/Tre.png": "/khamelca/static/media/Tre.31fd5f704517dbc8f828.png",
+    "static/media/Cons.png": "/khamelca/static/media/Cons.f151d8a410690aa322ec.png",
+    "static/media/Alb.png": "/khamelca/static/media/Alb.f0c5f04ae5fa18283796.png",
+    "static/media/Ho.png": "/khamelca/static/media/Ho.c1517cd0b024dd7240da.png",
+    "static/media/card.png": "/khamelca/static/media/card.74f227090c5d4a67538e.png",
+    "index.html": "/khamelca/index.html",
+    "main.673289b1.css.map": "/khamelca/static/css/main.673289b1.css.map",
+    "main.caacda7d.js.map": "/khamelca/static/js/main.caacda7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673289b1.css",
+    "static/js/main.caacda7d.js"
+  ]
+}
