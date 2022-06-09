@@ -5,34 +5,26 @@ import Foto from './Foto';
 function Portfolio() {
     return (
 
-        <
-        section id = 'portfolio' >
-        <
-        h1 > Landscaping design and Construction < /h1>  <
-        h2 > Portfolio < /h2>    <
-        div className = "porfolio" >
+        <section id = 'portfolio' >
+        <h1> Landscaping design and Construction </h1> 
+        <h2> Portfolio </h2>   
+        <div className = "porfolio" >
 
-        <
-        center >
-        <
-        div style = {
+        <center >
+        <div style = {
             {
                 width: '70%',
                 height: 400
 
             }
         } >
-        <
-        Foto / >
-        <
-        /div>
+        <Foto / >
+        </div>
 
-        <
-        /center>  
+        </center>  
 
-        <
-        /div>    <
-        /section>
+        </div>   
+        </section>
     )
 }
 
