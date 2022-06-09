@@ -24,7 +24,8 @@ const Contact = () => {
         h7 > Email < /h7> <
         h7 > Khamelca @mail.com < /h7> <
         a href = "mailto:khamelca@gmail.com"
-        target = "_blank" > Send a message < /a> <
+        target = "_blank"
+        rel = "noreferrer" > Send a message < /a> <
         /article>
 
         <
@@ -35,7 +36,8 @@ const Contact = () => {
         h7 > WhatsApp < /h7> <
         h7 > +862 254 4738 < /h7> <
         a href = "https://api.whatsapp.com/send?phone+8622544738"
-        target = "_blank" > Send a message < /a> <
+        target = "_blank"
+        rel = "noreferrer" > Send a message < /a> <
         /article>
 
         <
@@ -46,7 +48,8 @@ const Contact = () => {
         h7 > Messenger < /h7> <
         h7 > khamelca < /h7> <
         a href = "https://m.me/khamelca.gonzalez.7"
-        target = "_blank" > Send a message < /a> <
+        target = "_blank"
+        rel = "noreferrer" > Send a message < /a> <
         /article>
 
         <

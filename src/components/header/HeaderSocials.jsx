@@ -9,14 +9,14 @@ function HeaderSocials() {
         <
         a href = " https://linkedin.com"
         target = "_blank"
-        rel = "noopener noreferrer" > < BsLinkedin / > < /a>   <
+        rel = "noreferrer" > < BsLinkedin / > < /a>   <
         a href = " https://github.com"
         target = "_blank"
-        nrel = "noopener noreferrer" >
+        rel = "noreferrer" >
         <
         BsGithub / > < /a> <a href = " https:/ / facebook.com " target = "
         _blank "
-        rel = "noopener noreferrer" > < BsFacebook / > < /a> 
+        rel = "noreferrer" > < BsFacebook / > < /a> 
 
         <
         /div>

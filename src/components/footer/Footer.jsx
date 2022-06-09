@@ -1,11 +1,14 @@
 import React from 'react';
-import { AiFillLinkedin, AiFillFacebook, AiFillGithub, AiOutlineCoffee } from 'react-icons/ai';
+import { BsLinkedin, BsGithub, BsFacebook } from 'react-icons/bs'
+import { AiOutlineCoffee } from 'react-icons/ai';
 import './footer.css'
 
 const Footer = () => {
-    return ( 
-      <footer >
-        <a href = "#" className = 'footer__logo' > < AiOutlineCoffee / > Business </a>
+    return ( <
+        footer >
+        <
+        a href = "/#"
+        className = 'footer__logo' > < AiOutlineCoffee / > Business < /a>
 
         {
             /* <div className='permalinks'>
@@ -17,20 +20,34 @@ const Footer = () => {
                     </div> */
         }
 
-        <div className = 'footer__socials' >
-        <a href = "#" > < AiFillLinkedin/> </a> 
-        <a href = "#" > < AiFillFacebook/> </a> 
-        <a href = "#" > < AiFillGithub /> </a>
+        <
+        div className = 'footer__socials' >
+        <
+        a href = " https://linkedin.com"
+        target = "_blank"
+        rel = "noreferrer" > < BsLinkedin / > < /a>   <
+        a href = " https://github.com"
+        target = "_blank"
+        rel = "noreferrer" >
+        <
+        BsGithub / > < /a> <a href = " https:/ / facebook.com " target = "
+        _blank "
+        rel = "noreferrer" > < BsFacebook / > < /a> 
 
-        </div> 
+        <
+        /div>
 
-        <div className = "footer__copyright" >
-        <small > Create by Jorge Melchor </small>
+        <
+        div className = "footer__copyright" >
+        <
+        small > Create by Jorge Melchor < /small>
 
-        </div>
+        <
+        /div>
 
 
-        </footer>
+        <
+        /footer>
     )
 }
 
