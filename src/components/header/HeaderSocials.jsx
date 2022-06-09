@@ -14,9 +14,8 @@ function HeaderSocials() {
         target = "_blank"
         nrel = "noopener noreferrer" >
         <
-        BsGithub / > < /a> <
-        a href = " https://facebook.com"
-        target = "_blank"
+        BsGithub / > < /a> <a href = " https:/ / facebook.com " target = "
+        _blank "
         rel = "noopener noreferrer" > < BsFacebook / > < /a> 
 
         <

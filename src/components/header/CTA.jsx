@@ -6,7 +6,7 @@ const CTA = () => {
         div className = "cta" >
         <
         a href = { CV }
-        download className = 'btn' > Business Card < /a>  <
+        download className = 'btn' > Business Card < /a>   <
         a href = "#contact"
         className = 'btn btn-primary' > Contact me < /a>  <
         /div>
