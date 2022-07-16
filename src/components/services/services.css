@@ -88,7 +88,7 @@ div h1 {
     .cardleft {
         height: 55%;
         padding-left: 30px;
-        padding-bottom: 20px;
+        padding-bottom: 80px;
         display: grid;
         align-items: center;
         justify-items: center;
@@ -376,7 +376,7 @@ div h1 {
 .card1 {
     background: var(--card-body-bg-color);
     border-radius: 0 0 10px 10px;
-    box-shadow: 0 5px 25px rgb(0 0 0 / 20%);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 20%);
     background-color: rgba(7, 117, 40, 0.434);
 }
 
@@ -395,7 +395,7 @@ div h1 {
     .cardright {
         height: 55%;
         padding-left: 40px;
-        padding-top: 20px;
+        padding-top: 80px;
         display: grid;
         align-items: center;
         justify-items: center;
