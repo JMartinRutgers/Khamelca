@@ -72,8 +72,17 @@ const Services = () => {
 
         <
         article >
-
         <
+        div class = "pol" >
+        <
+        img src = { Ho }
+        alt = "About_img" / >
+        <
+        div className = "services-titulo" >
+        <
+        h3 > Landscaping < /h3> <
+        /div> <
+        /div> <
         /article>
 
         <
